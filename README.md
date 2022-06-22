@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Banner](https://user-images.githubusercontent.com/107978714/174974536-a8afaff8-8a42-4dbf-badb-0e191eb06463.png)
 
 <!--
 **communityScode/communityScode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
