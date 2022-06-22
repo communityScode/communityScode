@@ -2,11 +2,11 @@
 
 ### What is SCode Community Plus?
 
-It's an open source Community with a goal of helping each other improve in Programming!
+|| It's an open source Community with a goal of helping each other improve in Programming!
 
 ### What are the plans for this community?
 
-As of Now our plan is to focus on Easier and lightweight Programming/Markup Languages meaning we will be making websites and other stuff a long the way!
+|| As of Now our plan is to focus on Easier and lightweight Programming/Markup Languages meaning we will be making websites and other stuff a long the way!
 
 That's all! we hope that by contributing to this community you will be able to improve your skills in programming!
 
